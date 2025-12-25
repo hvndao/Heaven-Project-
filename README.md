@@ -17,7 +17,16 @@ This repository contains the official documentation, smart contracts, and roadma
 - [License](./LICENSE.md)  
 
 ---
+## Documentation
 
+- [Whitepaper](./docs/whitepaper.md)
+- [Roadmap](./docs/roadmap.md)
+- [Project License](./LICENSE.md)
+  ## Visual Assets
+
+- [Main Logo (SVG)](./assets/logo/logo-main.svg)
+- [Tokenomics Infographic](./assets/infographics/tokenomics-infographic.png)
+- [Roadmap Infographic](./assets/infographics/roadmap-infographic.png)
 ## 🧭 Overview
 
 The Heaven Platform is built on **Binance Smart Chain (BSC)** and introduces the HVN token (BEP-20 standard).  
